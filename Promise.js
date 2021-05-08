@@ -1,5 +1,3 @@
-#!/usr/bin/java
-
 var y = new Promise((resolve, reject) => { 
 	var x = 5 + 5
 	if (x == 10) {
